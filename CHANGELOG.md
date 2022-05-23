@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.0](https://github.com/shaurya6068/demo-repo-2/compare/v0.3.0...v1.0.0) (2022-05-23)
+
+
+### ⚠ BREAKING CHANGES
+
+* impotantnt
+
+### Features
+
+* important ([c7d0a10](https://github.com/shaurya6068/demo-repo-2/commit/c7d0a103b5963d495a70d9d0aba362374c9fefa6))
+
 ## [0.3.0](https://github.com/shaurya6068/demo-repo-2/compare/v0.2.0...v0.3.0) (2022-05-23)
 
 
