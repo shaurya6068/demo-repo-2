@@ -1,5 +1,26 @@
 # Changelog
 
+## [2.0.0](https://github.com/shaurya6068/demo-repo-2/compare/v1.0.0...v2.0.0) (2022-05-23)
+
+
+### ⚠ BREAKING CHANGES
+
+* new stuff
+* this is new shit
+
+### Features
+
+* amazon ([22804f1](https://github.com/shaurya6068/demo-repo-2/commit/22804f13d9d4d6378bc054f3f825ba168d6f5768))
+* asmdasd ([203a93b](https://github.com/shaurya6068/demo-repo-2/commit/203a93b919057c1945a6734ee673b472dc495296))
+* new ([3016b6f](https://github.com/shaurya6068/demo-repo-2/commit/3016b6f023a8d3b7be9a5b98d4c60206e492086f))
+
+
+### Bug Fixes
+
+* fasdf ([cd9e75b](https://github.com/shaurya6068/demo-repo-2/commit/cd9e75be3e3f404e72651345d90ec4e59c89c702))
+* this is new ([568e92c](https://github.com/shaurya6068/demo-repo-2/commit/568e92ca079f1e29aa6605fd3fa800be7fe01a0f))
+* waljrhskdjflh ([af9a22b](https://github.com/shaurya6068/demo-repo-2/commit/af9a22b03402d8e68e6d7e091fad5ccb4f3ad7cf))
+
 ## [1.0.0](https://github.com/shaurya6068/demo-repo-2/compare/v0.3.0...v1.0.0) (2022-05-23)
 
 
