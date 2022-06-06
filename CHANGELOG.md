@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.1.0](https://github.com/shaurya6068/demo-repo-2/compare/v2.0.0...v2.1.0) (2022-06-06)
+
+
+### Features
+
+* new feature 1 ([26f826e](https://github.com/shaurya6068/demo-repo-2/commit/26f826e52986498125a11a8b38c6154e8244b4a4))
+* new feature 2 ([5e2178a](https://github.com/shaurya6068/demo-repo-2/commit/5e2178ad10315e4243cf3da1712d973a0fc3a8e9))
+
 ## [2.0.0](https://github.com/shaurya6068/demo-repo-2/compare/v1.0.0...v2.0.0) (2022-05-23)
 
 
